@@ -1,2 +1,0 @@
-# dmcservices
-index.html
